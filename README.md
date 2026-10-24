@@ -71,7 +71,7 @@ With the default directory layout:
 bash scripts/run_catto.sh
 ```
 
-To set the GPU, paths, and seed:
+To set the GPU and paths:
 
 ```bash
 GPU=0 \
