@@ -2,7 +2,7 @@
 
 CATTO adds inference-time condition refinement for image restoration. At selected key steps, it branches the current latent into several candidates, varies the image condition in a DCT gain space, and refines the input condition using consistency and reward scores. It uses pretrained models and does not require additional training.
 
-The main entry point is [`scripts/run_catto.sh`](scripts/run_catto.sh). **Choose or Edit [`configs/setting_20s.json`](configs/setting_20s.json) to configure CATTO.** Model and data paths are supplied when launching the script.
+The main entry point is [`scripts/run_catto.sh`](scripts/run_catto.sh). Select a configuration file from [`configs/`](configs/) based on the desired number of optimization steps, e.g., [`setting_20s.json`](configs/setting_20s.json) for 20 steps. Model and data paths are supplied when launching the script.
 
 ## 1. Environment
 
