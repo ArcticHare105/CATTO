@@ -1,0 +1,40 @@
+{
+  "consistency_weights": [
+    8,
+    1,
+    1
+  ],
+  "topk": 3,
+  "condition_reuse": "decayed",
+  "windows": [
+    {
+      "start": 5,
+      "length": 4,
+      "candidates": 20,
+      "scale": 0.005,
+      "mode": "consistency"
+    },
+    {
+      "start": 15,
+      "length": 4,
+      "candidates": 20,
+      "scale": 0.005,
+      "mode": "reward"
+    },
+    {
+      "start": 25,
+      "length": 4,
+      "candidates": 20,
+      "scale": 0.02,
+      "mode": "reward"
+    },
+    {
+      "start": 45,
+      "length": 5,
+      "candidates": 20,
+      "scale": 0.02,
+      "mode": "reward_only"
+    }
+  ],
+  "reuse_decay": 0.1
+}
