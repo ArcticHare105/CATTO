@@ -1,0 +1,152 @@
+{
+  "consistency_weights": [
+    8,
+    1,
+    1
+  ],
+  "topk": 3,
+  "condition_reuse": "decayed",
+  "windows": [
+    {
+      "start": 10,
+      "length": 2,
+      "candidates": 20,
+      "scale": 0.01,
+      "mode": "consistency"
+    },
+    {
+      "start": 12,
+      "length": 2,
+      "candidates": 20,
+      "scale": 0.01,
+      "mode": "consistency"
+    },
+    {
+      "start": 14,
+      "length": 2,
+      "candidates": 20,
+      "scale": 0.01,
+      "mode": "consistency"
+    },
+    {
+      "start": 16,
+      "length": 2,
+      "candidates": 20,
+      "scale": 0.01,
+      "mode": "consistency"
+    },
+    {
+      "start": 18,
+      "length": 2,
+      "candidates": 20,
+      "scale": 0.01,
+      "mode": "consistency"
+    },
+    {
+      "start": 20,
+      "length": 2,
+      "candidates": 20,
+      "scale": 0.01,
+      "mode": "consistency"
+    },
+    {
+      "start": 22,
+      "length": 2,
+      "candidates": 20,
+      "scale": 0.01,
+      "mode": "reward"
+    },
+    {
+      "start": 24,
+      "length": 2,
+      "candidates": 20,
+      "scale": 0.01,
+      "mode": "reward"
+    },
+    {
+      "start": 26,
+      "length": 2,
+      "candidates": 20,
+      "scale": 0.01,
+      "mode": "reward"
+    },
+    {
+      "start": 28,
+      "length": 2,
+      "candidates": 20,
+      "scale": 0.01,
+      "mode": "reward"
+    },
+    {
+      "start": 30,
+      "length": 2,
+      "candidates": 20,
+      "scale": 0.01,
+      "mode": "reward"
+    },
+    {
+      "start": 32,
+      "length": 2,
+      "candidates": 20,
+      "scale": 0.01,
+      "mode": "reward"
+    },
+    {
+      "start": 34,
+      "length": 2,
+      "candidates": 20,
+      "scale": 0.01,
+      "mode": "reward"
+    },
+    {
+      "start": 36,
+      "length": 2,
+      "candidates": 20,
+      "scale": 0.01,
+      "mode": "reward"
+    },
+    {
+      "start": 38,
+      "length": 2,
+      "candidates": 20,
+      "scale": 0.01,
+      "mode": "reward"
+    },
+    {
+      "start": 40,
+      "length": 2,
+      "candidates": 20,
+      "scale": 0.01,
+      "mode": "reward"
+    },
+    {
+      "start": 42,
+      "length": 2,
+      "candidates": 20,
+      "scale": 0.01,
+      "mode": "reward_only"
+    },
+    {
+      "start": 44,
+      "length": 2,
+      "candidates": 20,
+      "scale": 0.01,
+      "mode": "reward_only"
+    },
+    {
+      "start": 46,
+      "length": 2,
+      "candidates": 20,
+      "scale": 0.01,
+      "mode": "reward_only"
+    },
+    {
+      "start": 48,
+      "length": 2,
+      "candidates": 20,
+      "scale": 0.01,
+      "mode": "reward_only"
+    }
+  ],
+  "reuse_decay": 0.1
+}
