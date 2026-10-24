@@ -78,7 +78,6 @@ GPU=0 \
 MODEL_ROOT=/path/to/models \
 INPUT=/path/to/input_images \
 OUTPUT=outputs/catto \
-SEED=123 \
 bash scripts/run_catto.sh
 ```
 
@@ -100,7 +99,6 @@ Environment variables accepted by the script:
 | `INPUT` | `preset/datasets/input` | Input image or directory. |
 | `OUTPUT` | `outputs/catto` | Output directory. |
 | `CONFIG` | `configs/setting.json` | CATTO JSON configuration. |
-| `SEED` | `123` | Sampling seed. |
 
 ## :smiley: Citation
 
