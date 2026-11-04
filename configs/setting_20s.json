@@ -11,21 +11,21 @@
       "start": 10,
       "length": 2,
       "candidates": 20,
-      "scale": 0.01,
+      "scale": 0.005,
       "mode": "consistency"
     },
     {
       "start": 12,
       "length": 2,
       "candidates": 20,
-      "scale": 0.01,
+      "scale": 0.005,
       "mode": "consistency"
     },
     {
       "start": 14,
       "length": 2,
       "candidates": 20,
-      "scale": 0.01,
+      "scale": 0.005,
       "mode": "consistency"
     },
     {
@@ -39,14 +39,14 @@
       "start": 18,
       "length": 2,
       "candidates": 20,
-      "scale": 0.01,
+      "scale": 0.005,
       "mode": "consistency"
     },
     {
       "start": 20,
       "length": 2,
       "candidates": 20,
-      "scale": 0.01,
+      "scale": 0.005,
       "mode": "consistency"
     },
     {
