@@ -53,98 +53,98 @@
       "start": 22,
       "length": 2,
       "candidates": 20,
-      "scale": 0.01,
+      "scale": 0.02,
       "mode": "reward"
     },
     {
       "start": 24,
       "length": 2,
       "candidates": 20,
-      "scale": 0.01,
+      "scale": 0.02,
       "mode": "reward"
     },
     {
       "start": 26,
       "length": 2,
       "candidates": 20,
-      "scale": 0.01,
+      "scale": 0.02,
       "mode": "reward"
     },
     {
       "start": 28,
       "length": 2,
       "candidates": 20,
-      "scale": 0.01,
+      "scale": 0.02,
       "mode": "reward"
     },
     {
       "start": 30,
       "length": 2,
       "candidates": 20,
-      "scale": 0.01,
+      "scale": 0.02,
       "mode": "reward"
     },
     {
       "start": 32,
       "length": 2,
       "candidates": 20,
-      "scale": 0.01,
+      "scale": 0.02,
       "mode": "reward"
     },
     {
       "start": 34,
       "length": 2,
       "candidates": 20,
-      "scale": 0.01,
+      "scale": 0.02,
       "mode": "reward"
     },
     {
       "start": 36,
       "length": 2,
       "candidates": 20,
-      "scale": 0.01,
+      "scale": 0.02,
       "mode": "reward"
     },
     {
       "start": 38,
       "length": 2,
       "candidates": 20,
-      "scale": 0.01,
+      "scale": 0.02,
       "mode": "reward"
     },
     {
       "start": 40,
       "length": 2,
       "candidates": 20,
-      "scale": 0.01,
+      "scale": 0.02,
       "mode": "reward"
     },
     {
       "start": 42,
       "length": 2,
       "candidates": 20,
-      "scale": 0.01,
+      "scale": 0.02,
       "mode": "reward_only"
     },
     {
       "start": 44,
       "length": 2,
       "candidates": 20,
-      "scale": 0.01,
+      "scale": 0.02,
       "mode": "reward_only"
     },
     {
       "start": 46,
       "length": 2,
       "candidates": 20,
-      "scale": 0.01,
+      "scale": 0.02,
       "mode": "reward_only"
     },
     {
       "start": 48,
       "length": 2,
       "candidates": 20,
-      "scale": 0.01,
+      "scale": 0.02,
       "mode": "reward_only"
     }
   ],
