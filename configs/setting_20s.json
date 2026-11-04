@@ -32,7 +32,7 @@
       "start": 16,
       "length": 2,
       "candidates": 20,
-      "scale": 0.01,
+      "scale": 0.005,
       "mode": "consistency"
     },
     {
