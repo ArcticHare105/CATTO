@@ -1,4 +1,3 @@
-# CATTO
 # Beyond Single-Shot Conditioning: Test-Time Condition Refinement for Diffusion-Based Image Restoration
 
 CATTO adds inference-time condition refinement for image restoration. At selected key steps, it branches the current latent into several candidates, varies the image condition in a DCT gain space, and refines the input condition using consistency and reward scores. It uses pretrained models and does not require additional training.
