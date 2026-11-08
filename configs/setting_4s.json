@@ -19,7 +19,7 @@
       "length": 4,
       "candidates": 10,
       "scale": 0.005,
-      "mode": "reward"
+      "mode": "consistency"
     },
     {
       "start": 25,
@@ -33,7 +33,7 @@
       "length": 5,
       "candidates": 10,
       "scale": 0.02,
-      "mode": "reward_only"
+      "mode": "reward"
     }
   ],
   "reuse_decay": 0.1
